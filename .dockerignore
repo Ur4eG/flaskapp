@@ -1,0 +1,10 @@
+bin/
+__pycache__/
+include/
+lib/
+.git
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
