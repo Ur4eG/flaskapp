@@ -1,1 +1,3 @@
-flask run
+#!/bin/sh
+
+~/.local/bin/flask run $1

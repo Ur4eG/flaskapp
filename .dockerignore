@@ -8,3 +8,5 @@ lib/
 *.pyd
 .Python
 env
+README*
+pip-selfcheck.json

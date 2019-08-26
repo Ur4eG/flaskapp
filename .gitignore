@@ -6,4 +6,4 @@ lib/
 *.pyo
 *.pyd
 .Python
-
+pip-selfcheck.json
